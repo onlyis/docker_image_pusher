@@ -31,7 +31,6 @@ nginx:latest
 nginx:stable-alpine
 mysql:8.0.35
 node:18.18.1-alpine3.18
-registry.cn-hangzhou.aliyuncs.com/sevenx/sonatype_nexus3:3.61.0
 redis:7.0.12
 xuxueli/xxl-job-admin:2.4.0
 rancher/rancher:v2.5.16
@@ -42,8 +41,6 @@ rancher/nginx-ingress-controller:nginx-1.2.1-rancher1
 rancher/rke-tools:v0.1.80
 maven:3.8.4-jdk-8
 rancher/mirrored-coreos-flannel:v0.15.1
-registry.cn-hangzhou.aliyuncs.com/sevenx/build:maven-3.6.0-jdk-8-alpine-ali-latest
-registry.cn-hangzhou.aliyuncs.com/sevenx/build:node-slim-16.13.0
 rancher/mirrored-pause:3.6
 rancher/mirrored-metrics-server:v0.5.0
 rancher/mirrored-coreos-etcd:v3.4.15-rancher1
@@ -58,8 +55,6 @@ docker:19.03.12
 rancher/mirrored-cluster-proportional-autoscaler:1.8.1
 rancher/kube-api-auth:v0.1.4
 gitlab/gitlab-ce:11.3.11-ce.0
-registry.cn-hangzhou.aliyuncs.com/sevenx/build:jre8_8u121_1
-registry.cn-hangzhou.aliyuncs.com/sevenx/jre8:8u121_1
 livingobjects/jre8:8u121_1
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
