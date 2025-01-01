@@ -58,3 +58,4 @@ gitlab/gitlab-ce:11.3.11-ce.0
 livingobjects/jre8:8u121_1
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+bytemark/webdav
