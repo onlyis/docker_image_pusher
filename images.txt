@@ -1,2 +1,2 @@
 
-bytemark/webdav
+dmego/java-alpine:jre8_251
