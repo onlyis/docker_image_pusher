@@ -1,3 +1,4 @@
 
 # dmego/java-alpine:jre8_251
-xhofe/alist:latest
+#xhofe/alist:latest
+fauria/vsftpd
