@@ -1,4 +1,7 @@
 
 # dmego/java-alpine:jre8_251
 #xhofe/alist:latest
-fauria/vsftpd
+#fauria/vsftpd
+node:23-alpine3.20
+node:22-alpine3.20
+node:18-bookworm-slim
